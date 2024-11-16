@@ -11,10 +11,29 @@
 body {
     margin: 0;
     font-family: var(--font-primary);
-    background-color: var(--background-color);
+    background: linear-gradient(to top, #171717, #1c1c1c); /* Dark to lighter gray */
     color: var(--text-color);
     line-height: 1.6;
 }
+
+
+/* General link styles */
+a {
+    color: var(--accent-color); /* Use your accent color */
+    text-decoration: none; /* Remove the underline */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+    a:hover,
+    a:focus {
+        color: #81c784; /* Slightly lighter green for hover/focus */
+        text-decoration: underline; /* Optional underline on hover */
+    }
+
+    a:visited {
+        color: var(--accent-color); /* Keep the visited link color consistent */
+    }
+
 
 .container {
     width: 90%;
@@ -75,7 +94,7 @@ section {
         margin-bottom: 20px;
         text-align: center;
         color: var(--text-color);
-        font-weight: 400;
+        font-weight: 600;
     }
 
 #about p {
@@ -83,6 +102,20 @@ section {
     max-width: 700px;
     margin: 0 auto;
     line-height: 1.8;
+}
+
+.container p {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+#about p1 {
+    text-align: center;
+    margin: 30px auto;
+    font-weight: 800;
+    display: block;
 }
 
 .project-list {

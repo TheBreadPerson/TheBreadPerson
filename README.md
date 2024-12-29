@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cooper</h1>
 <h3 align="center">A young developer from the U.S</h3>
 
-- 🔭 I’m currently working on [Caesar Engine](https://github.com/TheBreadPerson/CaesarEngine)
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **C++ and OpenGL**
 
-- 😱 I recently released [Holbrook Hotel](https://bare-bones.itch.io/holbrook-hotel)
+- 😱 I (not very) recently released [Holbrook Hotel](https://bare-bones.itch.io/holbrook-hotel)
 
 - 🎮 My itch.io page [https://bare-bones.itch.io/](https://bare-bones.itch.io/)
 

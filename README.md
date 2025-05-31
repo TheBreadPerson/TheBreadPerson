@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cooper</h1>
 <h3 align="center">A young developer from the U.S</h3>
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on an [FPS Roguelike](https://github.com/cellos51/forwardhall)
 
 - 🌱 I’m currently learning **C++ and OpenGL**
 

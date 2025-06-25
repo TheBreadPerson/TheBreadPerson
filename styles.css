@@ -118,62 +118,57 @@ section {
 
 .project-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Ensure two projects per row */
-    gap: 20px; /* Space between projects */
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); /* Slightly smaller for better grid */
+    gap: 20px; /* Reduced gap for more compact layout */
     margin-top: 20px;
 }
 
 .project {
-    background: var(--border-color);
-    padding: 20px;
-    border-radius: 8px;
+    background: var(--background-color);
+    padding: 25px 20px; /* Reduced padding for more compact layout */
+    border: 1px solid var(--border-color); /* Flat border instead of shadow */
+    border-radius: 0; /* Remove rounded corners for flatter look */
     text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: border-color 0.3s ease; /* Subtle transition */
 }
 
     .project:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
-    }
-
-    .project h3 {
-        font-size: 1.2rem;
-        margin: 10px 0;
+        border-color: var(--accent-color); /* Simple border color change on hover */
+    }    .project h3 {
+        font-size: 1.3rem; /* Slightly smaller title */
+        margin: 0 0 12px 0; /* Reduced margins */
         color: var(--text-color);
-    }
-
-    /* This is where we ensure the image resizes correctly */
+    }    /* This is where we ensure the image resizes correctly */
     .project img {
         display: block;
         width: 100%; /* Ensure it spans the container */
-        height: 200px; /* Fixed height for uniformity */
-        object-fit: cover; /* Cover the space without stretching */
-        margin: 0 auto;
+        height: auto; /* Allow natural height to show complete image */
+        max-height: 200px; /* Reduced max height for more compact layout */
+        object-fit: contain; /* Show entire image without cropping */
+        margin: 0 auto 15px auto; /* Reduced bottom margin */
         background-color: #000; /* Background if image doesn't cover fully */
-        border-radius: 4px;
-    }
-
-    .project p {
-        font-size: 0.9rem;
+        border-radius: 0; /* Remove rounded corners for flatter look */
+    }    .project p {
+        font-size: 0.95rem; /* Slightly smaller text */
         color: #bbb;
-        margin: 10px 0;
-    }
-
-    .project a {
+        margin: 10px 0 15px 0; /* Reduced margins */
+        line-height: 1.5;
+    }    .project a {
         display: inline-block;
         margin-top: 10px;
-        padding: 8px 16px;
-        color: var(--background-color);
-        background-color: var(--accent-color);
+        padding: 10px 20px; /* Slightly smaller padding */
+        color: var(--text-color);
+        background-color: transparent;
+        border: 2px solid var(--accent-color); /* Flat button style */
         text-decoration: none;
-        font-size: 0.9rem;
-        border-radius: 4px;
-        transition: background-color 0.3s ease;
+        font-size: 0.95rem; /* Slightly smaller font */
+        border-radius: 0; /* Remove rounded corners */
+        transition: all 0.3s ease;
     }
 
         .project a:hover {
-            background-color: #81c784;
+            background-color: var(--accent-color);
+            color: var(--background-color);
         }
 
 #contact ul {

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an FPS Roguelike
 
-- 🌱 I’m currently learning **C++ and OpenGL**
+<!--- 🌱 I’m currently learning **C++ and OpenGL**-->
 
 - 😱 I (not very) recently released [Holbrook Hotel](https://bare-bones.itch.io/holbrook-hotel)
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cooper</h1>
-<h3 align="center">A young developer from the U.S</h3>
+<h3 align="center">A developer from the U.S</h3>
 
 - 🔭 I’m currently working on an FPS Roguelike
 

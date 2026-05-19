@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cooper</h1>
 <h3 align="center">A developer from the U.S</h3>
 
-- 🔭 I’m currently working on an FPS Roguelike
+- 🔭 I’m currently working on [EXUVIA](https://store.steampowered.com/app/4513670?snr=5000_5100__)
 
 <!--- 🌱 I’m currently learning **C++ and OpenGL**-->
 

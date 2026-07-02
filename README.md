@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cooper</h1>
-<h3 align="center">A developer from the U.S</h3>
+<h1 align="center">barebones</h1>
 
-- 🔭 I’m currently working on [EXUVIA](https://store.steampowered.com/app/4513670?snr=5000_5100__)
+WISHLIST [EXUVIA](https://store.steampowered.com/app/4513670?snr=5000_5100__)
 
-<!--- 🌱 I’m currently learning **C++ and OpenGL**-->
+My itch.io page: [https://bare-bones.itch.io/](https://bare-bones.itch.io/)
 
-- 😱 I (not very) recently released [Holbrook Hotel](https://bare-bones.itch.io/holbrook-hotel)
-
-- 🎮 My itch.io page [https://bare-bones.itch.io/](https://bare-bones.itch.io/)
-
-- 📫 How to reach me **cooperreffuge@gmail.com**
+Contact me at **cooper@gardenofsteel.studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

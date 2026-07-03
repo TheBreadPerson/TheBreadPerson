@@ -15,6 +15,9 @@ Contact me at **cooper@gardenofsteel.studio**
 
 <h3 align="left">list of skills or something:</h3>
 <p align="left"> 
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://godotengine.org/assets/press/icon_color.png" alt="arduino" width="40" height="40"/> 
+  </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 

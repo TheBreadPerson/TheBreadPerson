@@ -6,10 +6,13 @@ My itch.io page: [https://bare-bones.itch.io/](https://bare-bones.itch.io/)
 
 Contact me at **cooper@gardenofsteel.studio**
 
-<h3 align="left">my youtube:</h3>
+<h3 align="left">youtube & discord:</h3>
 <p align="left">
   <a href="https://www.youtube.com/@barebonesinteractive" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="barebonesinteractive" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/ttHbnCcbEE" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="barebonesinteractive" height="30" width="40" />
   </a>
 </p>
 
